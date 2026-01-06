@@ -1,7 +1,9 @@
 {
-  "name": "frontend",
-  "version": "1.0.0",
-  "description": "Frontend interactivo con React/Vue y visualización 3D",
+  "name": "vector-load-frontend",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Interactive frontend built with React + Vite + Three.js for 3D load visualization.",
+  "type": "module",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
